@@ -1,6 +1,6 @@
 # Todo App
 
-Учебный проект
+Веб-приложение написано на языке JavaScript с использованием библиотеки React и собрано при помощи Vite
 
 ![alt text](public/example.png)
 
@@ -45,7 +45,7 @@ cd todo-app_react-vite
 
 ```bash
 npm install
-# Или, если используете yarn:
+# или, если используете yarn:
 yarn install
 ```
 
@@ -53,7 +53,7 @@ yarn install
 
 ```bash
 npm start
-# Или, если используете yarn:
+# или, если используете yarn:
 yarn start
 ```
 
@@ -61,4 +61,4 @@ yarn start
 
 ## Контакты
 
-Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной по электронной почте: demargorn@gmail.com.
+Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной в Telegram: **@demargorn** или по электронной почте: __demargorn@gmail.com__.
